@@ -60,7 +60,8 @@ body {
 			justify-content: space-between;
 			margin-top: 50px;
 			font-family: 'Inter', sans-serif;
-			span {
+
+			.item {
 				h2 {
 					color: $primary;
 				}
